@@ -1,0 +1,17 @@
+﻿Build started 4/17/2019 3:32:19 PM.
+     1>Project "E:\Stuck_In_Me\final\final_game\TheGameX\TheGame\TheGame.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\TheGame.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         TheGame.vcxproj -> E:\Stuck_In_Me\final\final_game\TheGameX\Debug\TheGame.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\TheGame.unsuccessfulbuild".
+         Touching "Debug\TheGame.lastbuildstate".
+     1>Done Building Project "E:\Stuck_In_Me\final\final_game\TheGameX\TheGame\TheGame.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
